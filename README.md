@@ -36,11 +36,12 @@ Every tool ends with the same line, in its interface language:
 Markup: `<footer class="site-foot">`, items separated by `<span class="sep">·</span>`.
 
 The same credits also stand at the foot of the left rail (`<div class="rail-foot">`), one item
-per line because the rail is narrow, and without the ORCID, which the page footer carries:
+per line because the rail is narrow (the licences split at the comma, one per line), and without the ORCID, which the page footer carries:
 
 ```
 By Ricardo Hartley Belmar
-Code under MIT, data under CC BY 4.0
+Code under MIT
+data under CC BY 4.0
 Source on GitHub
 Part of Metadata Audits         (tools in that family)
 Data from DataCite and ANID     (where the tool shows data; name the sources)
