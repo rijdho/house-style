@@ -35,11 +35,25 @@ Every tool ends with the same line, in its interface language:
 
 Markup: `<footer class="site-foot">`, items separated by `<span class="sep">·</span>`.
 
+The same credits also stand at the foot of the left rail (`<div class="rail-foot">`), one item
+per line because the rail is narrow, and without the ORCID, which the page footer carries:
+
+```
+By Ricardo Hartley Belmar
+Code under MIT, data under CC BY 4.0
+Source on GitHub
+Part of Metadata Audits         (tools in that family)
+Data from DataCite and ANID     (where the tool shows data; name the sources)
+```
+
+The rail is hidden in a drawer on a phone, so it never replaces the page footer: both are shown.
+
 | | English | Español | Deutsch |
 |---|---|---|---|
 | by | By | Por | Von |
 | licences | Code under MIT, data under CC BY 4.0 | Código bajo MIT, datos bajo CC BY 4.0 | Code unter MIT, Daten unter CC BY 4.0 |
 | source | Source on GitHub | Código en GitHub | Quellcode auf GitHub |
+| family | Part of Metadata Audits | Parte de Metadata Audits | Teil von Metadata Audits |
 
 ## Using it in a project
 
