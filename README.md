@@ -47,12 +47,16 @@ By Ricardo Hartley Belmar
 Code under Apache-2.0
 data under CC BY 4.0
 Source on GitHub
-Part of Metaudits               (tools in that family)
 Data from DataCite and ANID     (where the tool shows data; name the sources)
 DOI 10.5281/zenodo.NNN          (once archived: the concept DOI)
 ```
 
 A tool whose page has no rail (pollen) carries the page footer only.
+
+The brand block at the top of the rail carries, under the tool's name (which links to the tool's
+start page): the site line, `<a class="brand-sub">rijdho.github.io</a>`, and for tools in the family
+the family line, `<p class="brand-family">Part of <a>Metaudits</a></p>`. The family line sits there,
+not in the rail credits.
 
 The family is called **Metaudits** in every signature, in every language, and links to
 https://rijdho.github.io/metaudits-home/. Not "Metadata Audits", which describes it.
