@@ -25,7 +25,7 @@ The brand glyph takes its letters from the project: `<span class="brand-glyph" s
 
 Every tool ends with the same line, in its interface language:
 
-> By Ricardo Hartley Belmar (ORCID 0000-0001-5058-9309) · Code under MIT, data under CC BY 4.0 · Source on GitHub · DOI 10.5281/zenodo.NNN
+> By Ricardo Hartley Belmar (ORCID 0000-0001-5058-9309) · Code under Apache-2.0, data under CC BY 4.0 · Source on GitHub · DOI 10.5281/zenodo.NNN
 
 - **Author** links to https://rijdho.github.io; the ORCID links to https://orcid.org/0000-0001-5058-9309.
 - **Licences** say what the project actually uses (code, and data if it publishes any).
@@ -40,7 +40,7 @@ per line because the rail is narrow (the licences split at the comma, one per li
 
 ```
 By Ricardo Hartley Belmar
-Code under MIT
+Code under Apache-2.0
 data under CC BY 4.0
 Source on GitHub
 Part of Metaudits               (tools in that family)
@@ -58,7 +58,7 @@ The rail is hidden in a drawer on a phone, so it never replaces the page footer:
 | | English | Español | Deutsch |
 |---|---|---|---|
 | by | By | Por | Von |
-| licences | Code under MIT, data under CC BY 4.0 | Código bajo MIT, datos bajo CC BY 4.0 | Code unter MIT, Daten unter CC BY 4.0 |
+| licences | Code under Apache-2.0, data under CC BY 4.0 | Código bajo Apache-2.0, datos bajo CC BY 4.0 | Code unter Apache-2.0, Daten unter CC BY 4.0 |
 | source | Source on GitHub | Código en GitHub | Quellcode auf GitHub |
 | family | Part of Metaudits | Parte de Metaudits | Teil von Metaudits |
 
