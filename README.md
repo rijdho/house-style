@@ -45,7 +45,10 @@ data under CC BY 4.0
 Source on GitHub
 Part of Metadata Audits         (tools in that family)
 Data from DataCite and ANID     (where the tool shows data; name the sources)
+DOI 10.5281/zenodo.NNN          (once archived: the concept DOI)
 ```
+
+A tool whose page has no rail (pollen) carries the page footer only.
 
 The rail is hidden in a drawer on a phone, so it never replaces the page footer: both are shown.
 
