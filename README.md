@@ -4,9 +4,13 @@ The shared "violet" look of rijdho's public tools: one stylesheet, `house.css`, 
 Inter fonts it needs. It is the original; every project keeps an **exact copy**, and a test in each
 project fails if that copy is edited or falls behind.
 
-Used by: [chilean-altoutputs](https://github.com/rijdho/chilean-altoutputs).
-To migrate: fair-repo-audit, coara-action-planner, orcid-finder (they carry the same tokens, copied by
-hand, and have started to drift in their interface names).
+Used by: [chilean-altoutputs](https://github.com/rijdho/chilean-altoutputs),
+[metaudits-home](https://github.com/rijdho/metaudits-home),
+[fair-repo-audit](https://github.com/rijdho/fair-repo-audit),
+[orcid-finder](https://github.com/rijdho/orcid-finder) and
+[coara-action-planner](https://github.com/rijdho/coara-action-planner), each with a synced copy, a lock
+and a test. The last three moved on 2026-09-24: their own stylesheets lost every declaration identical
+to house.css, checked by screenshots before and after.
 
 ## What it gives a project
 
