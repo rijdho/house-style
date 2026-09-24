@@ -43,12 +43,15 @@ By Ricardo Hartley Belmar
 Code under MIT
 data under CC BY 4.0
 Source on GitHub
-Part of Metadata Audits         (tools in that family)
+Part of Metaudits               (tools in that family)
 Data from DataCite and ANID     (where the tool shows data; name the sources)
 DOI 10.5281/zenodo.NNN          (once archived: the concept DOI)
 ```
 
 A tool whose page has no rail (pollen) carries the page footer only.
+
+The family is called **Metaudits** in every signature, in every language, and links to
+https://rijdho.github.io/metaudits-home/. Not "Metadata Audits", which describes it.
 
 The rail is hidden in a drawer on a phone, so it never replaces the page footer: both are shown.
 
@@ -57,7 +60,7 @@ The rail is hidden in a drawer on a phone, so it never replaces the page footer:
 | by | By | Por | Von |
 | licences | Code under MIT, data under CC BY 4.0 | Código bajo MIT, datos bajo CC BY 4.0 | Code unter MIT, Daten unter CC BY 4.0 |
 | source | Source on GitHub | Código en GitHub | Quellcode auf GitHub |
-| family | Part of Metadata Audits | Parte de Metadata Audits | Teil von Metadata Audits |
+| family | Part of Metaudits | Parte de Metaudits | Teil von Metaudits |
 
 ## Using it in a project
 
