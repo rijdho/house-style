@@ -1,0 +1,10 @@
+house-style
+Copyright 2026 Ricardo Hartley Belmar (ORCID 0000-0001-5058-9309)
+
+The stylesheet (house.css) is licensed under the Apache License, Version 2.0 (LICENSE).
+
+The specification in README.md (the house footer, the rail credits, how a project uses the
+copy) is licensed separately under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+fonts/: Inter, by Rasmus Andersson, under the SIL Open Font License 1.1.

@@ -84,4 +84,7 @@ look at it, deploy. A change reaches a site when that site is redeployed, never 
 
 ## License
 
-MIT. Inter is under the SIL Open Font License 1.1.
+Copyright 2026 Ricardo Hartley Belmar. The stylesheet: [Apache-2.0](LICENSE). This specification:
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Inter, in `fonts/`: SIL Open Font License 1.1.
+[`NOTICE`](NOTICE) carries all three; a derivative keeps it. Until 2026-09-24 the stylesheet was under
+MIT, and a copy taken then keeps those terms.
